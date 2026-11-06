@@ -1,0 +1,8 @@
+2024-05-01T12:00:00Z | INFO | auth-service | 200 | User logged in
+2024-05-01T12:05:00Z | ERROR | auth-service | 5001 | Database connection failed
+2024-05-01T12:10:00Z | WARN | payment-gateway | 300 | Slow response
+2024-05-01T12:15:00Z | ERROR | auth-service | 5001 | Database connection failed again
+2024-05-01T12:20:00Z | DEBUG | auth-service | 100 | Debug message
+2024-05-01T12:25:00Z | INFO | payment-gateway | 200 | Payment processed
+Это просто испорченная строка без разделителей
+
