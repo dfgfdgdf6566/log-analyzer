@@ -1,0 +1,25 @@
+{
+  "total_lines": 7,
+  "valid_lines": 6,
+  "invalid_lines": 1,
+  "errors": [
+    "Line 7: invalid format (expected 5 fields)"
+  ],
+  "filtered_events": 6,
+  "by_level": {
+    "INFO": 2,
+    "ERROR": 2,
+    "WARN": 1,
+    "DEBUG": 1
+  },
+  "by_source": {
+    "auth-service": 4,
+    "payment-gateway": 2
+  },
+  "top_error_codes": [
+    [
+      "5001",
+      2
+    ]
+  ]
+}
